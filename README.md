@@ -4,14 +4,14 @@
 
 ## 🧐About me ##
 - 🔭 I’m currently working on Unity videogames and iOS apps.
-- 🌱 I’m currently learning wed developing.
+- 🌱 I’m currently learning web development.
 - 🏄‍ I also have knowledge in UX/UI design.
-- 💾 [Certified](https://www.linkedin.com/in/federica-mosca-81204029a/overlay/certifications/1896305974/multiple-media-viewer/?profileId=ACoAAEhDqI4BD5xjkJD-phFtKsnyJLCgFl9K1Pw&treasuryMediaId=1709145806354) database technician.
+- 💾 [Certified](https://www.linkedin.com/in/federica-mosca-81204029a/) database technician.
 - 👯 And much more...
 
 ## 👩‍💻My skills ##
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,figma,java,mongodb,py,swift,unity,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,figma,java,mysql,py,swift,unity,git)](https://skillicons.dev)
 
 ## ✨One day I aim to... ##
 
