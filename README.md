@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Unity videogames and iOS apps.
 - 🌱 I’m currently learning web development.
 - 🏄‍ I also have knowledge in UX/UI design.
-- 💾 [Certified](https://www.linkedin.com/in/federica-mosca-81204029a/) database technician.
+- 💾 [Certified](https://www.linkedin.com/in/federica-mosca-81204029a/) database engineer.
 - 👯 And much more...
 
 ## 👩‍💻My skills ##
